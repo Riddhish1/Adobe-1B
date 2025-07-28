@@ -1,0 +1,6 @@
+PyMuPDF==1.24.1 
+numpy==1.26.4
+sentence-transformers==2.7.0
+scipy==1.13.1
+langchain-community==0.2.11 
+faiss-cpu
